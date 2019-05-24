@@ -1,0 +1,3 @@
+/Users/Roman/CLionProjects/laba4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Roman/CLionProjects/laba4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Roman/CLionProjects/laba4/cmake-build-debug/CMakeFiles/laba4.dir

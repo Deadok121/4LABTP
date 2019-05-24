@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Roman/CLionProjects/laba4/ArrayList.h
+initializer_list
+-
+cstring
+-
+cstddef
+-
+new
+-
+
+/Users/Roman/CLionProjects/laba4/main.cpp
+iostream
+-
+unordered_map
+-
+string
+-
+ArrayList.h
+/Users/Roman/CLionProjects/laba4/ArrayList.h
+typeinfo
+/Users/Roman/CLionProjects/laba4/typeinfo
+
